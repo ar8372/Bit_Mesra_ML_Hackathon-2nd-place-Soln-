@@ -16,3 +16,5 @@ consequences of the disease.</p>
 <h3>  Link of report is :- https://github.com/Jatin-Goyal-552/Bit_Mesra_ML_Hackathon-2nd-place-Soln-/blob/main/Final_Report/StillLearning_final_report.pdf</h3>
 
 <h3>EDA of dataset can be found at :- https://www.kaggle.com/code/raj401/liver-disease-eda </h3>
+<h3>Code to generate folds of dataset is at :- https://www.kaggle.com/code/raj401/liverdisease-create-folds</h3>
+</h3>Final notebook to train model is at :- https://www.kaggle.com/code/raj401/liver-disease-complete-ensemble-2nd-place/notebook</h3>
