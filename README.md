@@ -17,4 +17,4 @@ consequences of the disease.</p>
 
 <h3>EDA of dataset can be found at :- https://www.kaggle.com/code/raj401/liver-disease-eda </h3>
 <h3>Code to generate folds of dataset is at :- https://www.kaggle.com/code/raj401/liverdisease-create-folds</h3>
-</h3>Final notebook to train model is at :- https://www.kaggle.com/code/raj401/liver-disease-complete-ensemble-2nd-place/notebook</h3>
+<h3>Final notebook to train model is at :- https://www.kaggle.com/code/raj401/liver-disease-complete-ensemble-2nd-place/notebook</h3>
