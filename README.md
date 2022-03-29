@@ -14,3 +14,5 @@ treatment before it's too late can prevent the fatal
 consequences of the disease.</p>
 <h3> The full solution is described in the final report. </h3>
 <h3>  Link of report is :- https://github.com/Jatin-Goyal-552/Bit_Mesra_ML_Hackathon-2nd-place-Soln-/blob/main/Final_Report/StillLearning_final_report.pdf</h3>
+
+<h3>EDA of dataset can be found at :- https://www.kaggle.com/code/raj401/liver-disease-eda </h3>
